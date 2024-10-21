@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://picersest.github.io/picersest.txt.gz
+Sitemap: https://picersest.github.io/app/picersest.txt.gz
+Sitemap: https://picersest.github.io/assets/picersest.txt.gz
+Sitemap: https://picersest.github.io/css/picersest.txt.gz
+Sitemap: https://picersest.github.io/includes/picersest.txt.gz
+Sitemap: https://picersest.github.io/item/picersest.txt.gz
+Sitemap: https://picersest.github.io/src/picersest.txt.gz
